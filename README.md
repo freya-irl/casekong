@@ -1,5 +1,5 @@
 # casekong
-### a HHKB-type case for the choc version of weteor's [kong](https://github.com/weteor/Kong)
+### a HHKB-type case for the choc version of weteor's [kong](https://github.com/weteor/Kong) with a reworked PCB for RGB!
 
 ![front](https://github.com/freya-irl/casekong/blob/main/pictures/front.PNG)
 
@@ -30,6 +30,13 @@
 - the top plate and switch plate are glued together and then held in with the switches, concealing any mounting hardware in the case
 
 ![cutlegends](https://github.com/freya-irl/casekong/blob/main/pictures/cutlegends.png)
+
+## PCB
+
+- lightly reworked to add the SK6812 mini-e in the corners instead of switches
+
+![front](https://github.com/freya-irl/casekong/blob/main/pictures/PCB%20front.png)
+![back](https://github.com/freya-irl/casekong/blob/main/pictures/PCB%20back.png)
 
 ## getting the thing made/files
 
