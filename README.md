@@ -40,9 +40,9 @@
 
 ## getting the thing made/files
 
-the bottom case is designed to be resin or MJF printed, same goes for the plate.
-the top plate and the PCB metal can be whatever is preferred (as long as it's 2mm thickness), i rendered it with a stainless steel look.
-i would recommend not using a clear acrylic for the top plate since that has to be glued to the switch plate, which will probably be visible in that case.
+the bottom case is designed to be resin or MJF printed, same goes for the plate.  
+the top plate and the PCB metal can be whatever is preferred (as long as it's 2mm thickness), i rendered it with a stainless steel look.  
+i would recommend not using a clear acrylic for the top plate since that has to be glued to the switch plate, which will probably be visible in that case.  
 the PCB is designed to be 1mm thickness, only that will fit into the case.
 
 ## kudos
