@@ -31,6 +31,10 @@
 
 ![cutlegends](https://github.com/freya-irl/casekong/blob/main/pictures/cutlegends.png)
 
+## getting the thing made/files
+
+the intention for this is for the bottom case to be resin or MJF printed, same goes for the plate.
+the top plate and the PCB metal can be whatever is preferred (as long as it's 2mm thickness), i rendered it with a stainless steel look.
 
 ## kudos
 
