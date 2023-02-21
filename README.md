@@ -1,5 +1,5 @@
 # casekong
-a HHKB-type case for the choc version of weteor's kong
+### a HHKB-type case for the choc version of weteor's [kong](https://github.com/weteor/Kong)
 
 ![front](https://github.com/freya-irl/casekong/blob/main/pictures/front.PNG)
 
@@ -30,3 +30,8 @@ a HHKB-type case for the choc version of weteor's kong
 - the top plate and switch plate are glued together and then held in with the switches, concealing any mounting hardware in the case
 
 ![cutlegends](https://github.com/freya-irl/casekong/blob/main/pictures/cutlegends.png)
+
+
+## kudos
+
+[weteor](https://github.com/weteor), check out his cool boards!
