@@ -1,5 +1,5 @@
 # casekong
-### a HHKB-type case for the choc version of weteor's [kong](https://github.com/weteor/Kong)
+### a HHKB-type case for the choc version of weteor's [kong](https://github.com/weteor/Kong) with a reworked PCB for RGB!
 
 ![front](https://github.com/freya-irl/casekong/blob/main/pictures/front.PNG)
 
@@ -31,11 +31,20 @@
 
 ![cutlegends](https://github.com/freya-irl/casekong/blob/main/pictures/cutlegends.png)
 
+## PCB
+
+- lightly reworked to add the SK6812 mini-e in the corners instead of switches
+
+![front](https://github.com/freya-irl/casekong/blob/main/pictures/PCB%20front.png)
+![back](https://github.com/freya-irl/casekong/blob/main/pictures/PCB%20back.png)
+
 ## getting the thing made/files
 
-the bottom case is designed to be resin or MJF printed, same goes for the plate.
-the top plate and the PCB metal can be whatever is preferred (as long as it's 2mm thickness), i rendered it with a stainless steel look.
-i would recommend not using a clear acrylic for the top plate since that has to be glued to the switch plate, which will probably be visible in that case.
+The bottom case is designed to be resin or MJF printed, same goes for the plate.  
+The top plate and the PCB metal can be whatever is preferred (as long as it's 2mm thickness), I rendered it with a stainless steel look.  
+I would recommend not using a clear acrylic for the top plate since that has to be glued to the switch plate,  
+which will probably be visible in that case.  
+The PCB is designed to be 1mm thickness (!!!), only that will fit into the case.
 
 ## kudos
 
